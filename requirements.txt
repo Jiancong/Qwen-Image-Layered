@@ -1,0 +1,2 @@
+pip install git+https://github.com/huggingface/diffusers
+pip install python-pptx
