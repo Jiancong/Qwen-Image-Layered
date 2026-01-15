@@ -1,2 +1,3 @@
 pip install git+https://github.com/huggingface/diffusers
 pip install python-pptx
+pip install transformers
